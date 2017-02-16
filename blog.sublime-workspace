@@ -1,0 +1,351 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"reverse"
+			],
+			[
+				"n",
+				"number"
+			],
+			[
+				"p",
+				"photos"
+			],
+			[
+				"ar",
+				"Article"
+			],
+			[
+				"t",
+				"title"
+			],
+			[
+				"At",
+				"Article"
+			],
+			[
+				"form",
+				"form"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"me",
+				"method\tAttr"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"A",
+				"ArticleForm"
+			],
+			[
+				"Ar",
+				"ArticleForm"
+			],
+			[
+				"Po",
+				"POST"
+			],
+			[
+				"Model",
+				"ModelForm\tModelForm"
+			],
+			[
+				"Mod",
+				"ModelForm\tModelForm"
+			],
+			[
+				"fr",
+				"from"
+			],
+			[
+				"__",
+				"__unicode__"
+			],
+			[
+				"de",
+				"def\tFunction"
+			],
+			[
+				"Date",
+				"DateField"
+			],
+			[
+				"S",
+				"Stock"
+			],
+			[
+				"tra",
+				"trans"
+			],
+			[
+				"h",
+				"high_values"
+			],
+			[
+				"st",
+				"Stock"
+			],
+			[
+				"te",
+				"testeBucica"
+			],
+			[
+				"V",
+				"Val"
+			],
+			[
+				"s",
+				"save"
+			],
+			[
+				"val",
+				"Val"
+			],
+			[
+				"fo",
+				"form"
+			],
+			[
+				"high",
+				"high_values"
+			],
+			[
+				"di",
+				"dict_temp"
+			],
+			[
+				"g",
+				"get_open"
+			],
+			[
+				"max",
+				"max_length"
+			],
+			[
+				"va",
+				"valorSt"
+			],
+			[
+				"for",
+				"forms"
+			],
+			[
+				"Mo",
+				"models"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pak",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"pip install python",
+			"'python -m virtualenv'",
+			"pip install python",
+			"'Virtualenv: Activate'",
+			"'Virtualenv: SublimeREPL - Python'",
+			"'Virtualenv: Activate'",
+			"Virtualenv: Activate",
+			"Virtualenv: SublimeREPL - Python",
+			"`Virtualenv: SublimeREPL - Python`",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Luiz Gili/Google Drive/Meu Site/Blog"
+	],
+	"file_history":
+	[
+		"/C/Users/Luiz Gili/Google Drive/Meu Site/Base/Base/app/templates/app/layout.html",
+		"/C/Users/Luiz Gili/Google Drive/Meu Site/Base/Base/Base/settings.py",
+		"/C/Users/Luiz Gili/Google Drive/Meu Site/Base/Base/app/templates/app/about.html",
+		"/C/Users/Luiz Gili/Google Drive/Meu Site/Gili_Site/Gili_Site/Gili_Site/settings.py",
+		"/C/Users/Luiz Gili/Google Drive/Meu Site/Base_site/Base_site/app/models.py",
+		"/C/Users/Luiz Gili/Google Drive/Meu Site/Base_site/Base_site/manage.py",
+		"/C/Users/Luiz Gili/AppData/Roaming/Sublime Text 3/Packages/Pylinter/Pylinter.sublime-settings",
+		"/C/Users/Luiz Gili/Google Drive/Meu Site/Base_site/Base_site/Base_site/settings.py",
+		"/C/Users/Luiz Gili/AppData/Roaming/Sublime Text 3/Packages/SublimePythonIDE/SublimePython.sublime-settings",
+		"/C/Users/Luiz Gili/AppData/Roaming/Sublime Text 3/Packages/Virtualenv/README.md",
+		"/C/Users/Luiz Gili/AppData/Roaming/Sublime Text 3/Packages/User/Pylinter.sublime-settings",
+		"/C/Users/Luiz Gili/Desktop/test1",
+		"/C/Program Files/Sublime Text 3/Packages/Python.sublime-package"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"firstDate",
+			"chartData",
+			"cars",
+			"loga"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 280.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Virtualenv/Python + Virtualenv.sublime-build",
+	"project": "blog.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 240.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
